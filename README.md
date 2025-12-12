@@ -8,7 +8,9 @@
 *   Добавлены подсети Roblox Corporation в `lists/ipset-all.txt`.
 *   Обновлён файл `lists/list-general.txt`.
 --------------------------------------------
-  (Лучше запускать general (ALT8).bat)
+(Лучше запускать general (ALT8).bat)
+  
+(Если не работает, переключите "Switch game filter" на enabled)
 
 
 <div align="center">
