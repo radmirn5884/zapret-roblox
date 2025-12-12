@@ -1,3 +1,16 @@
+# Zapret Roblox
+
+**Модифицированная сборка инструмента Zapret для обхода блокировки Roblox в РФ.**
+
+> *Этот репозиторий является форком (ответвлением) оригинального проекта [zapret-discord-youtube](https://github.com/Flowseal/zapret-discord-youtube), распространяемого под лицензией MIT.*
+
+## Что изменено
+*   Добавлены подсети Roblox Corporation в `lists/ipset-all.txt`.
+*   Обновлён файл `lists/list-general.txt`.
+--------------------------------------------
+  (Лучше запускать general (ALT8).bat)
+
+
 <div align="center">
 
 # <img src="https://cdn-icons-png.flaticon.com/128/5968/5968756.png" height=28 /> <a href="https://github.com/Flowseal/">Flowseal</a><a href="https://github.com/Flowseal/zapret-discord-youtube">/zapret-discord-youtube</a> <img src="https://cdn-icons-png.flaticon.com/128/1384/1384060.png" height=28 />
